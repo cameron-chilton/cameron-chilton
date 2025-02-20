@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cameron-chilton
-- 👀 I’m interested in: Web/Mobile Web Application UI Development with React.js/Redux and UX Design with Adobe Creative Cloud and Figma.
+- 👀 I’m interested in: Web/Mobile Web Application UI Development with React.js/Redux/SCSS as well as Microsoft Power Apps. UX Design with Adobe Creative Cloud and Figma.
 - 📫 View my portfolio at https://cameronchilton.com
 
 <!---
